@@ -23,6 +23,7 @@ Responsibilities:
 - Development of a system for verifying the traceability of requirements identifiers in the technical documentation for software.
 - Working with databases and knowledge of SQL.
 - Documentation of source texts.
+- Applied skills of Python, SQLite, OOP, design patterns.
 - Optimization of the code for working with docx format documents (program processing time decreased by about 97.0%).
 
 ### About me
@@ -32,7 +33,7 @@ Working with git.
 There was an experience of drawing up technical documentation using Doxygen.
 
 ### Knowledge of language
-English — B2 — Intermediate-Advanced
+English — B2 — Intermediate-Advanced (the level of reading documentation)
 
 
 <!--
