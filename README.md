@@ -21,8 +21,8 @@ Technology stack: Python, SQLite.
 
 Responsibilities:
 - Development of a system for verifying the traceability of requirements identifiers in the technical documentation for software.
-- Working with databases and knowledge of SQL.
-- Documentation of source texts.
+- Working with databases.
+- Code testing (unittest, pytest).
 - Applied skills of Python, SQLite, OOP, design patterns.
 - Optimization of the code for working with docx format documents (program processing time decreased by about 97.0%).
 
